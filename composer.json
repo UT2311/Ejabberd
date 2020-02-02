@@ -1,5 +1,5 @@
 {
-    "name": "Utkarsh/Ejabberd",
+    "name": "utkarsh/ejabberd",
     "type": "library",
     "description": "Wrapper implementing ejabberd.",
     "keywords": [
